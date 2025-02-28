@@ -3,6 +3,9 @@
 ## Project Overview
 This data science project aims to predict individual medical costs using a dataset containing various attributes related to health insurance. The project focuses on analyzing features such as age, gender, BMI, number of children, smoking status, region, and predicting the corresponding medical costs.
 
+## Live Demo
+Check out the live application here: [Medical Cost Prediction App](https://medical-insurance-predictor-tool.streamlit.app)
+
 ## Data Dictionary
 The dataset used in this project provides information about health insurance beneficiaries and their medical costs. It includes the following columns:
 
