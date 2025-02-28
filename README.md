@@ -26,7 +26,8 @@ The dataset used in this project provides information about health insurance ben
 
 ## Folder Structure
 ```
-Medical-Insurance-Predictor/ 
+Medical-Insurance-Predictor/
+|-- .gitignore
 │-- Medical_Cost_Prediction.ipynb    
 |-- README.md           
 │-- app.py        
